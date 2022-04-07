@@ -2,7 +2,6 @@
 /* eslint-disable react/jsx-key */
 /* eslint-disable no-unused-vars */
 import React from 'react';
-import { element } from 'prop-types';
 import Title from './Title';
 import planets from '../data/planets';
 import PlanetCard from './PlanetCard';
